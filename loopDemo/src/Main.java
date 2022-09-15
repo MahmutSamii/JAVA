@@ -19,5 +19,14 @@ public class Main {
             i++;
         }
         System.out.println("While döngüsü bitti");
+
+        //do-while
+        int j = 1;
+        do{
+            System.out.println(j);
+            j++;
+        }
+        while (j<10);
+        System.out.println("Do-While döngüsü bitti");
     }
 }
