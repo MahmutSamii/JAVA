@@ -12,5 +12,12 @@ public class Main {
             System.out.println(i);
         }
         System.out.println("Çiftli Sayılar Bitti");
+        //While
+        int i =1;
+        while (i<10){
+            System.out.println(i);
+            i++;
+        }
+        System.out.println("While döngüsü bitti");
     }
 }
